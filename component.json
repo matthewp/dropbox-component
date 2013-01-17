@@ -1,5 +1,5 @@
 {
-  "name": "dropbox-component",
+  "name": "dropbox",
   "repo": "matthewp/dropbox-component",
   "description": "Dropbox.js as a component",
   "version": "0.8.1",
