@@ -1,0 +1,13 @@
+{
+  "name": "dropbox-component",
+  "repo": "matthewp/dropbox-component",
+  "description": "Dropbox.js as a component",
+  "version": "0.8.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
